@@ -1,3 +1,0 @@
-github.com/galdir/DevWeb20192
-
-w3schools.com/css/default.asp
